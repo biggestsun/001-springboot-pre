@@ -2,6 +2,7 @@ package com.bjpowernode.vo;
 
 public class Student {
 
+    //注释
     private String name;
     private Integer age;
     private String sex;
