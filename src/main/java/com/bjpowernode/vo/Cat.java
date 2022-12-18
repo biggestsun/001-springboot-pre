@@ -3,7 +3,8 @@ package com.bjpowernode.vo;
 public class Cat {
     private String id;
     private String type;
-
+    
+    public static String MESSAGE = "come on!";
     private String cardId;
     private String name;
     private Integer age;
