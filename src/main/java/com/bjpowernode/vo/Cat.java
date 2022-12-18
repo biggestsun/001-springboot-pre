@@ -4,6 +4,8 @@ public class Cat {
     private String id;
     private String type;
    public static Integer SIZE = 100;
+    
+    public static String MESSAGE = "come on!";
     private String cardId;
     private String name;
     private Integer age;
