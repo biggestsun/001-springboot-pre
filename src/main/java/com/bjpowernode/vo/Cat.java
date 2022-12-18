@@ -3,7 +3,7 @@ package com.bjpowernode.vo;
 public class Cat {
     private String id;
     private String type;
-
+   public static Integer SIZE = 100;
     private String cardId;
     private String name;
     private Integer age;
