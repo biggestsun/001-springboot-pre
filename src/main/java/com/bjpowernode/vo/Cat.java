@@ -1,6 +1,7 @@
 package com.bjpowernode.vo;
 
 public class Cat {
+    private String id;
 
     private String cardId;
     private String name;
